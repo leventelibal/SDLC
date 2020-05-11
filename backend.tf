@@ -28,16 +28,3 @@ region = "${S3BUCKETREGION}"
 } 
 
 
-'EOF'
-
-
-
-cat backend.tf 
-
-
-
-rm -rf .terraform/terraform.state 
-
-
-
-terraform init 
