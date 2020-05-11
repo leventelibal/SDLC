@@ -317,8 +317,7 @@ region = "${S3BUCKETREGION}"
 } 
 
 
-
-EOF 
+'EOF'
 
 
 
