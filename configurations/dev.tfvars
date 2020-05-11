@@ -1,7 +1,7 @@
 environment = "dev" 
 
 
-s3_bucket = "backend-state-farrukh" #Will be used to set backend.tf 
+s3_bucket = "backend-state-levent" #Will be used to set backend.tf 
 
 
 
