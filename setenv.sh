@@ -286,7 +286,7 @@ fi
 
 
 
-cat << EOF > "$DIR/backend.tf" 
+cat << 'EOF' > "$DIR/backend.tf" 
 
 
 
